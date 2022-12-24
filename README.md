@@ -1,6 +1,6 @@
 # application-client-serveur-TCP-IP
 ***
-Project realised by team of 3 in one week (28/11/22 - 02/12/22)
+Project realised by a team of 3 in 1 week (28/11/22 - 02/12/22)
 ***
 ## Table of Contents
 1. [General Info]
